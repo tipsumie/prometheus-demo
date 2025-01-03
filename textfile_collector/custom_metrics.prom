@@ -1,0 +1,3 @@
+# HELP demo_metric A demo metric for testing
+# TYPE demo_metric gauge
+demo_metric 123
